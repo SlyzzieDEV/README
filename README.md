@@ -13,7 +13,7 @@ I am passionate about video games and game servers. <br/>
 * <b>Discord Developer -></b> JS <br/>
 * <b>Game Developer -></b> Five M 
 <br/><br/>
-* 💼 Currently working on [MyStock - NationsGlory/Discord ](https://discord.gg/RRTRJrAPBx) <br/>
+* 💼 Currently working on [MyStock - NationsGlory/Discord ](https://discord.gg/JPDz6sh3F4) <br/>
 <br/>
 <br/>
 
